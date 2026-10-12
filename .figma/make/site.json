@@ -1,0 +1,10 @@
+{
+  "description": "This web application enhances article browsing by displaying all tags for each article, allowing users to filter content easily with up to 10 clickable tags.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
